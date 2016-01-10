@@ -41,7 +41,7 @@ image: http://i.imgur.com/UhZZCY9.png
 
 5. concurrent collections; producer consumer, blocking queues - JCP 5.1, 5.2, 5.3
 
-6. Task execution - Executors, fork-join
+6. Task execution - executors, fork-join
 
 8. Lock-free algorithms 
 	* [https://en.wikipedia.org/wiki/Non-blocking_algorithm](https://en.wikipedia.org/wiki/Non-blocking_algorithm)

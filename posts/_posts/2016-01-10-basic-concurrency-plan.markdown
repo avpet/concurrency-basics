@@ -1,18 +1,3 @@
----
-layout: post
-title:  "Многопоточность в Java"
-date:   2016-01-10 10:30:00
-categories: scala
-image: http://i.imgur.com/UhZZCY9.png
----
-
-<style>
-/* To center images */
-.center {
-    text-align: center;
-}
-</style>
-
 # Очень общий план
 
 Литература:
