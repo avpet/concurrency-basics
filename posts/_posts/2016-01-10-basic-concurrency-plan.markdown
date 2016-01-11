@@ -16,17 +16,17 @@
 	* JCP, chapter 2
 	* JTP, chapter 7
 
-3. Lock objects
+3. Lock objects [http://stackoverflow.com/questions/4201713/synchronization-vs-lock](http://stackoverflow.com/questions/4201713/synchronization-vs-lock)
 4. other synchronization primitives - JCP 5.5
-7. Concurrency problems 
+5. Concurrency problems 
 	* Deadlock
 	* Liveness
 	* Priority inversion
 	* Resource starvation [https://en.wikipedia.org/wiki/Starvation_%28computer_science%29](https://en.wikipedia.org/wiki/Starvation_%28computer_science%29)
 
-5. concurrent collections; producer consumer, blocking queues - JCP 5.1, 5.2, 5.3
+6. concurrent collections; producer consumer, blocking queues - JCP 5.1, 5.2, 5.3
 
-6. Task execution - executors, fork-join
+7. Task execution - executors, fork-join
 
 8. Lock-free algorithms 
 	* [https://en.wikipedia.org/wiki/Non-blocking_algorithm](https://en.wikipedia.org/wiki/Non-blocking_algorithm)
@@ -36,3 +36,7 @@
 9. Alternative approaches - Hoare's CSPs, actors: [https://news.ycombinator.com/item?id=7612775](https://news.ycombinator.com/item?id=7612775)
 
 
+
+Привет, Витя.
+
+Первый вариант - общий план, как я в сумме это приблизительно вижу, вот - https://github.com/avpet/concurrency-basics/blob/master/posts/_posts/2016-01-10-basic-concurrency-plan.markdown . Вообще, надо будет созвониться, конечно, и обговорить; предлагаю завтра, в течение дня, начиная с 11:30 по Киеву, ті напиши, и созвонимся в скайпе.
