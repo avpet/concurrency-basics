@@ -34,9 +34,3 @@
 	* [http://mechanical-sympathy.blogspot.com/2013/08/lock-based-vs-lock-free-concurrent.html](http://mechanical-sympathy.blogspot.com/2013/08/lock-based-vs-lock-free-concurrent.html)
 
 9. Alternative approaches - Hoare's CSPs, actors: [https://news.ycombinator.com/item?id=7612775](https://news.ycombinator.com/item?id=7612775)
-
-
-
-Привет, Витя.
-
-Первый вариант - общий план, как я в сумме это приблизительно вижу, вот - https://github.com/avpet/concurrency-basics/blob/master/posts/_posts/2016-01-10-basic-concurrency-plan.markdown . Вообще, надо будет созвониться, конечно, и обговорить; предлагаю завтра, в течение дня, начиная с 11:30 по Киеву, ті напиши, и созвонимся в скайпе.
